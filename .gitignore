@@ -1,0 +1,7 @@
+# Installer files (uploaded as GitHub Release assets, not committed)
+*.dmg
+*.exe
+*.msi
+
+# macOS
+.DS_Store
