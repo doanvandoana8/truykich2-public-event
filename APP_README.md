@@ -6,7 +6,7 @@ Công cụ xem sự kiện game Truy Kích. **Ứng dụng miễn phí, phi lợ
 
 ## Tải về
 
-Vào trang [Releases](https://github.com/doanvandoana8/truykich-app-event/releases/latest) và tải file phù hợp:
+Vào trang [Releases](https://github.com/doanvandoana8/truykich2-public-event/releases/latest) và tải file phù hợp:
 
 | Hệ điều hành | File tải về |
 |-------------|-------------|
