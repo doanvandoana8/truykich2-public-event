@@ -4,9 +4,22 @@ Công cụ xem sự kiện game Truy Kích. **Ứng dụng miễn phí, phi lợ
 
 ---
 
-## Tải về
+## Dùng ngay trên trình duyệt (Khuyên dùng)
 
-Vào trang [Releases](https://github.com/doanvandoana8/truykich2-public-event/releases/latest) và tải file phù hợp:
+> **Không cần tải, không cần cài đặt — mở trình duyệt là dùng được ngay!**
+>
+> **https://vandoan-truykich.freeddns.org/**
+>
+> - Hỗ trợ mọi thiết bị: máy tính, điện thoại, tablet
+> - Luôn cập nhật phiên bản mới nhất
+> - Không lo cảnh báo bảo mật khi cài đặt
+
+---
+
+## Tải app về máy (tùy chọn)
+
+> Nếu bạn muốn dùng offline hoặc thích cài app riêng, có thể tải bản cài đặt bên dưới.
+
 
 | Hệ điều hành | File tải về |
 |-------------|-------------|
