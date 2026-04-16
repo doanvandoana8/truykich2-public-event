@@ -1,5 +1,5 @@
 Proprietary Software License Agreement
-Version 1.0 — April 2026
+Version 1.1 — April 2026
 
 Copyright (c) 2026 Văn Đoàn (doanvandoana8@gmail.com). All rights reserved.
 
@@ -14,35 +14,32 @@ bound by the terms of this Agreement. If you do not agree, you must not use
 the Software and must delete all copies in your possession.
 
 1. GRANT OF LICENSE
-   The Copyright Holder grants the User a non-exclusive, non-transferable,
-   non-assignable, revocable, worldwide license to install, run, and use the
-   Software free of charge strictly for personal, non-commercial purposes
-   only.
+   The Copyright Holder grants the User a free, non-exclusive,
+   non-transferable, non-assignable, revocable, worldwide license to
+   install, run, and use the Software free of charge for personal use.
 
-   Commercial use includes but is not limited to: use within a business,
-   organization, government entity, or for generating revenue directly or
-   indirectly, including use as part of a SaaS product, internal company
-   tool, or any organizational workflow.
+   The Software is provided completely free. No fees, subscriptions, or
+   in-app purchases are required.
 
 2. RESTRICTIONS
    The User shall NOT:
-   a. Distribute, sublicense, sell, lease, rent, or otherwise transfer the
-      Software, in whole or in part, to any third party;
-   b. Modify, adapt, translate, or create derivative works based on the
-      Software in any form and for any purpose;
-   c. Reverse engineer, decompile, disassemble, or otherwise attempt to
+   a. Redistribute, sublicense, sell, lease, rent, or otherwise transfer
+      the Software, in whole or in part, to any third party;
+   b. Reupload, rehost, mirror, or make the Software available for download
+      on any platform, website, app store, file-sharing service, or
+      repository without prior written permission from the Copyright Holder;
+   c. Modify, adapt, translate, or create derivative works based on the
+      Software;
+   d. Reverse engineer, decompile, disassemble, or otherwise attempt to
       derive the source code of the Software, except to the extent that
-      such activity is expressly permitted by applicable law
-      notwithstanding this limitation;
-   d. Remove, alter, or obscure any copyright notices, trademarks, or other
+      such activity is expressly permitted by applicable law;
+   e. Remove, alter, or obscure any copyright notices, trademarks, or other
       proprietary notices contained in the Software;
-   e. Use the Software for any commercial purpose without prior written
-      permission from the Copyright Holder;
-   f. Republish, upload, host, or make the Software available on any
-      platform, website, app store, or repository without prior written
-      permission from the Copyright Holder;
-   g. Deploy, embed, or integrate the Software into any system, service, or
+   f. Deploy, embed, or integrate the Software into any system, service, or
       product intended for use by third parties.
+
+   The Software must only be obtained from official distribution channels
+   designated by the Copyright Holder.
 
 3. INTELLECTUAL PROPERTY
    The Software and all copies thereof are proprietary to and the property of
@@ -63,18 +60,17 @@ the Software and must delete all copies in your possession.
    licenses are not affected by this Agreement, and the User is responsible
    for complying with their terms.
 
-6. DATA COLLECTION
-   The Software may collect technical and usage data for the purposes of
-   analytics, diagnostics, or improving the Software. By using the Software,
-   the User acknowledges and consents to such data collection. The Copyright
-   Holder will handle any collected data in accordance with applicable
-   privacy laws and the Privacy Policy, if provided separately.
+6. PRIVACY AND DATA
+   The Software does NOT collect, store, transmit, or process any personal
+   data, usage data, analytics, telemetry, or any other information from the
+   User. The Copyright Holder respects the User's privacy. No data of any
+   kind is gathered during the installation or use of the Software.
 
 7. NO SUPPORT OR MAINTENANCE
    The Copyright Holder is under no obligation to provide maintenance,
    support, updates, patches, bug fixes, or new versions of the Software.
    Any such services, if provided, shall be at the sole discretion of the
-   Copyright Holder and may be subject to additional terms.
+   Copyright Holder.
 
 8. TERMINATION
    a. This Agreement is effective until terminated.
@@ -85,69 +81,33 @@ the Software and must delete all copies in your possession.
       or discontinuation of the Software.
    d. Upon termination, the User must immediately cease all use of the
       Software and destroy all copies in their possession.
-   e. Sections 3, 4, 6, 7, 9, 10, 11, 12, and 14 shall survive
-      termination.
+   e. Sections 3, 4, 6, and 9 shall survive termination.
 
-9. DISCLAIMER OF WARRANTIES
-   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
-   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
-   THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE
-   UNINTERRUPTED, ERROR-FREE, OR FREE OF HARMFUL COMPONENTS.
-
-10. LIMITATION OF LIABILITY
-    IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT,
-    INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING BUT
-    NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION)
-    ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE
-    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-11. INDEMNIFICATION
-    The User agrees to indemnify, defend, and hold harmless the Copyright
-    Holder from any and all claims, damages, losses, liabilities, costs, and
-    expenses (including reasonable attorneys' fees) arising from the User's
-    use of the Software or violation of this Agreement.
-
-12. ENFORCEMENT
-    The Copyright Holder reserves the right to investigate suspected
-    violations of this Agreement and to take appropriate legal action,
-    including seeking injunctive relief and damages, against any User who
-    violates this Agreement.
-
-13. EXPORT COMPLIANCE
-    The User agrees to comply with all applicable export control laws and
-    regulations. The User shall not use, export, or re-export the Software
-    in violation of any applicable laws or regulations, including but not
-    limited to trade sanctions and export restrictions.
-
-14. FORCE MAJEURE
+9. FORCE MAJEURE
     The Copyright Holder shall not be liable for any failure or delay in
     performing obligations under this Agreement due to events beyond
     reasonable control, including but not limited to natural disasters, war,
     terrorism, government actions, network failures, or other force majeure
     events.
 
-15. SEVERABILITY
+10. SEVERABILITY
     If any provision of this Agreement is found to be invalid or
     unenforceable by a court of competent jurisdiction, the remaining
-    provisions shall continue in full force and effect. The invalid provision
-    shall be modified to the minimum extent necessary to make it valid and
-    enforceable.
+    provisions shall continue in full force and effect.
 
-16. GOVERNING LAW
+11. GOVERNING LAW
     This Agreement shall be governed by and construed in accordance with the
-    laws of the Socialist Republic of Vietnam, without regard to its conflict
-    of law provisions. Any disputes arising under this Agreement shall be
-    subject to the exclusive jurisdiction of the courts of Vietnam.
+    laws of the Socialist Republic of Vietnam. Any disputes arising under
+    this Agreement shall be subject to the exclusive jurisdiction of the
+    courts of Vietnam.
 
-17. ENTIRE AGREEMENT AND AMENDMENTS
+12. ENTIRE AGREEMENT AND AMENDMENTS
     This Agreement constitutes the entire agreement between the parties
     concerning the Software and supersedes all prior or contemporaneous
     understandings, agreements, or representations. The Copyright Holder
-    reserves the right to update this Agreement at any time. Where required
-    by applicable law, the User will be notified of material changes.
-    Continued use of the Software after such changes constitutes acceptance
-    of the updated terms.
+    reserves the right to update this Agreement at any time. Continued use
+    of the Software after such changes constitutes acceptance of the updated
+    terms.
 
-For commercial licensing inquiries or permissions beyond the scope of this
-license, please contact: doanvandoana8@gmail.com
+For inquiries or permissions beyond the scope of this license, please
+contact: doanvandoana8@gmail.com
